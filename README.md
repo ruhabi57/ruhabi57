@@ -11,7 +11,7 @@
 - 🌱 I’m currently working on cross-platform mobile apps with Flutter
 - 🤝 I’m available for freelancing and collaboration opportunities.
 - 💬 Ask me about Flutter, Dart and API Integration
-- 📫 How to reach me: [ruhab420](mailto:ruhab420@gmail.com)
+- 📫 How to reach me: [ruhab420](mailto:"ruhab420@gmail.com")
 - 📄 Know about my experiences and projects on my [Resume](https://github.com/ruhabi57/Resume/blob/main/Ruhab.pdf)
 
 <br/>
