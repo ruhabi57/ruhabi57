@@ -28,7 +28,7 @@
         <a style="margin-left: 10px;" target="_blank" href="https://api.whatsapp.com/send/?phone=923060052650">
             <img src="https://img.icons8.com/doodle/40/000000/whatsapp--v2.png" alt="WhatsApp"></a>
         
-    </div>
+    
 </p>
 
 <h3 align="center">My GitHub Stats 📈</h3>
