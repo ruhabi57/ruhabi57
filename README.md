@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm <a href="https://github.com/ruhabi57" target="blank">Muhammad Ruhab Qureshi</a></h1>
-<h3 align="center">A passionate Flutter Developer from Pakistan 🇵🇰</h3>
+<h3 align="center">A passionate SOC Analyst from Pakistan 🇵🇰</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ruhabi57&label=Profile%20views&color=0e75b6&style=flat" alt="ruhabi57" /> </p>
 
@@ -7,10 +7,10 @@
   <img align="right" top="500" height="300" width="400" alt="GIF" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif">
 </a>
 
-- 🔭 I’m currently working as a Flutter Developer at <a href="https://innspirovatetech.com/" target="blank">Innspirovate Tech</a>
-- 🌱 I’m currently working on cross-platform mobile apps with Flutter
+- 🔭 I’m currently working as a SOC Analyst at <a href="https://secureism.com/" target="blank">Secureism</a>
+- 🔭 I was working as a Flutter Developer at <a href="https://innspirovatetech.com/" target="blank">Innspirovate Tech</a>
 - 🤝 I’m available for freelancing and collaboration opportunities.
-- 💬 Ask me about Flutter, Dart and API Integration
+- 💬 Ask me about SIEM, ELK Stack, Flutter, Dart and API Integration
 - 📫 How to reach me: [ruhab420@gmail.com](mailto:"ruhab420@gmail.com")
 - 📄 Know about my experiences and projects on my [Resume](https://github.com/ruhabi57/Resume/blob/main/Ruhab.pdf)
 
